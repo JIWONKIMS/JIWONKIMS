@@ -1,5 +1,5 @@
 안녕하세요. 끊임없이 발전하는 개발자가 목표인 김지원입니다. 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 
 ### 🔧 기술 스택
 
