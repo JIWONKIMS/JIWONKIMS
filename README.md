@@ -9,6 +9,7 @@
       <th>제목</th>
       <th>링크</th>
       <th>담당</th>
+      <th>기술</th>
     </tr>
   </thead>
   <tbody>
@@ -17,24 +18,28 @@
       <td>졸업 작품 - INUTime(커뮤니티 어플)</td>
       <td><a href="https://github.com/JIWONKIMS/INUTime">GitHub 링크</a></td>
       <td>풀스택 개발</td>
+      <td>RN, FB, FS</td>
     </tr>
     <tr>
       <td>2025.05~2025.06</td>
       <td>커피 원두 판매 사이트</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-1-Team11">GitHub 링크</a></td>
       <td>백엔드 개발</td>
+      <td>스프링 부트</td>
     </tr>
     <tr>
       <td>2025.06~2025.08</td>
       <td>DevMatch(팀 프로젝트 매칭 서비스) - java</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-2-Team08">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
+      <td>스프링 부트</td>
     </tr>
     <tr>
       <td>2025.08~2025.08</td>
       <td>DevMatch(팀 프로젝트 매칭 서비스) - kotlin</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-3-Team8">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
+      <td>스프링 부트, OAuth2.0</td>
     </tr>
     <tr>
       <td>2025~</td>
