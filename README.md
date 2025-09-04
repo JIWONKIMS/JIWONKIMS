@@ -13,27 +13,27 @@
   </thead>
   <tbody>
     <tr>
-      <td>2023.06~ 2024.06</td>
+      <td>2023.06~2024.06</td>
       <td>졸업 작품 - INUTime(커뮤니티 어플)</td>
       <td><a href="https://github.com/JIWONKIMS/INUTime">GitHub 링크</a></td>
       <td>풀스택 개발</td>
     </tr>
     <tr>
-      <td>2025.0</td>
+      <td>2025.05~2025.06</td>
       <td>커피 원두 판매 사이트</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-1-Team11">GitHub 링크</a></td>
       <td>백엔드 개발</td>
     </tr>
     <tr>
-      <td>2025</td>
+      <td>2025.06~2025.08</td>
       <td>DevMatch(팀 프로젝트 매칭 서비스) - java</td>
-      <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
+      <td><a href="https://github.com/JIWONKIMS/NBE6-8-2-Team08">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
     </tr>
     <tr>
-      <td>2025</td>
+      <td>2025.08~2025.08</td>
       <td>DevMatch(팀 프로젝트 매칭 서비스) - kotlin</td>
-      <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
+      <td><a href="https://github.com/JIWONKIMS/NBE6-8-3-Team8">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
     </tr>
     <tr>
