@@ -14,8 +14,8 @@
   <tbody>
     <tr>
       <td>2024</td>
-      <td>커뮤니티 어플</td>
-      <td><a href="https://github.com/YourUsername/ProjectA">GitHub 링크</a></td>
+      <td>졸업 작품 - INUTime(커뮤니티 어플)</td>
+      <td><a href="https://github.com/JIWONKIMS/INUTime">GitHub 링크</a></td>
       <td>풀스택 개발</td>
     </tr>
     <tr>
@@ -26,9 +26,21 @@
     </tr>
     <tr>
       <td>2025</td>
-      <td>팀 프로젝트 매칭 서비스</td>
+      <td>DevMatch(팀 프로젝트 매칭 서비스) - java</td>
       <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>DevMatch(팀 프로젝트 매칭 서비스) - kotlin</td>
+      <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
+      <td>백엔드 , 보안 개발</td>
+    </tr>
+    <tr>
+      <td>2025~</td>
+      <td>~</td>
+      <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
+      <td>~</td>
     </tr>
   </tbody>
 </table>
