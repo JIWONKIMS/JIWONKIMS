@@ -25,26 +25,27 @@
       <td>커피 원두 판매 사이트</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-1-Team11">GitHub 링크</a></td>
       <td>백엔드 개발</td>
-      <td>스프링 부트</td>
+      <td>Spring Boottd>
     </tr>
     <tr>
       <td>2025.06~2025.08</td>
       <td>DevMatch(팀 프로젝트 매칭 서비스) - java</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-2-Team08">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
-      <td>스프링 부트</td>
+      <td>Spring Boot</td>
     </tr>
     <tr>
       <td>2025.08~2025.08</td>
       <td>DevMatch(팀 프로젝트 매칭 서비스) - kotlin</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-3-Team8">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
-      <td>스프링 부트, OAuth2.0</td>
+      <td>Spring Boot, OAuth2.0</td>
     </tr>
     <tr>
       <td>2025~</td>
       <td>~</td>
       <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
+      <td>~</td>
       <td>~</td>
     </tr>
   </tbody>
