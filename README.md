@@ -1,5 +1,31 @@
 안녕하세요. 끊임없이 발전하는 개발자가 목표인 김지원입니다. 
 
+### 참여 프로젝트
+
+<table>
+  <thead>
+    <tr>
+      <th>년도</th>
+      <th>제목</th>
+      <th>링크</th>
+      <th>담당</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024</td>
+      <td>프로젝트 A</td>
+      <td><a href="https://github.com/YourUsername/ProjectA">GitHub 링크</a></td>
+      <td>백엔드 개발</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>프로젝트 B</td>
+      <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
+      <td>풀스택 개발</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🔧 기술 스택
 
@@ -24,3 +50,5 @@
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
