@@ -25,7 +25,7 @@
       <td>커피 원두 판매 사이트</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-1-Team11">GitHub 링크</a></td>
       <td>백엔드 개발</td>
-      <td>Spring Boottd>
+      <td>Spring Boot</td>
     </tr>
     <tr>
       <td>2025.06~2025.08</td>
