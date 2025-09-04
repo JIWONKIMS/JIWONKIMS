@@ -39,7 +39,7 @@
       <td>DevMatch(팀 프로젝트 매칭 서비스) - kotlin</td>
       <td><a href="https://github.com/JIWONKIMS/NBE6-8-3-Team8">GitHub 링크</a></td>
       <td>백엔드 , 보안 개발</td>
-      <td>Spring Boot, OAuth2.0</td>
+      <td>Spring Boot</td>
     </tr>
     <tr>
       <td>2025~</td>
