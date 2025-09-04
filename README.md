@@ -8,4 +8,5 @@
 ### ⚙️ Back-end
 
 -   **언어:** Java, Kotlin
--   **프레임워크:** Spring Boot <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-squarel&logo=html5&logoColor=white"/>
+-   **프레임워크:** Spring Boot
+-   <img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-squarel&logo=springboot&logoColor=white"/>
