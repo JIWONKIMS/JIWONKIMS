@@ -1,5 +1,5 @@
 안녕하세요. 끊임없이 발전하는 개발자가 목표인 김지원입니다. 
-![캡슐랜더](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIWONKIMS&desc=Your%20Description&fontColor=ffffff)
+![캡슐랜더](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIWONKIM&fontColor=ffffff)
 ### 
 
 <hr/>
