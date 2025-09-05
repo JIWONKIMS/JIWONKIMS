@@ -1,4 +1,5 @@
 안녕하세요. 끊임없이 발전하는 개발자가 목표인 김지원입니다. 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&width=500&lines=안녕하세요!;새로운+것을+배우는+개발자입니다)
 
 ### 
 
