@@ -15,9 +15,10 @@
     <tr>
       <th>년도</th>
       <th>제목</th>
-      <th>링크</th>
+      <th>깃 링크</th>
       <th>담당</th>
       <th>기술</th>
+      <th>블로그</th>
     </tr>
   </thead>
   <tbody>
