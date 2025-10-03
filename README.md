@@ -5,6 +5,7 @@
 <hr/>
 
 ### Career
+2019~2025 : 송도 인천대학교 졸업
 2025.05~2025.10 : 프로그래머스 백엔드 부트캠프 
 
 
@@ -51,11 +52,11 @@
       <td>Spring Boot</td>
     </tr>
     <tr>
-      <td>2025~</td>
-      <td>~</td>
+      <td>2025.09~2025.10</td>
+      <td>Korea Travel Guide</td>
       <td><a href="https://github.com/YourUsername/ProjectB">GitHub 링크</a></td>
-      <td>~</td>
-      <td>~</td>
+      <td>PO</td>
+      <td>DevOps</td>
     </tr>
   </tbody>
 </table>
